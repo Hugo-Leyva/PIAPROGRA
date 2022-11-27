@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DAL\\DAL.csproj": {}
+    "C:\\Users\\hugo_\\source\\repos\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DAL\\DAL.csproj": {
+    "C:\\Users\\hugo_\\source\\repos\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\hugo_\\source\\repos\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\hugo_\\source\\repos\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\hugo_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\hugo_\\source\\repos\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,20 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.0.123, )"
-            },
-            "Node.js": {
-              "target": "Package",
-              "version": "[5.3.0, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.5, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
