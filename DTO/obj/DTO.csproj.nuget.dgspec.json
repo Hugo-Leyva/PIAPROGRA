@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo_\\source\\repos\\DTO\\DTO.csproj": {}
+    "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DTO\\DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo_\\source\\repos\\DTO\\DTO.csproj": {
+    "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo_\\source\\repos\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\hugo_\\source\\repos\\DTO\\DTO.csproj",
+        "projectPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DTO\\DTO.csproj",
         "packagesPath": "C:\\Users\\hugo_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo_\\source\\repos\\DTO\\obj\\",
+        "outputPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo_\\AppData\\Roaming\\NuGet\\NuGet.Config",

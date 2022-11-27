@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugo_\\source\\repos\\BL\\BL.csproj": {}
+    "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\BL\\BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugo_\\source\\repos\\BL\\BL.csproj": {
+    "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugo_\\source\\repos\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\hugo_\\source\\repos\\BL\\BL.csproj",
+        "projectPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\hugo_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugo_\\source\\repos\\BL\\obj\\",
+        "outputPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hugo_\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugo_\\source\\repos\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\hugo_\\source\\repos\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\hugo_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugo_\\source\\repos\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\hugo_\\OneDrive - Universidad Autonoma de Nuevo León\\Desktop\\PIAPROGRA\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hugo_\\AppData\\Roaming\\NuGet\\NuGet.Config",
